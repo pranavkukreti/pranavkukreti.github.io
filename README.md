@@ -1,2 +1,3 @@
 # pranavkukreti.github.io
-My website
+# this is h1 heading
+## this is h2 heading
